@@ -1,0 +1,7 @@
+(a) --> set<string>
+(b) --> vector<string>
+(c) --> queue<string>
+(d) --> geen container, int 
+(e) --> map<int, int> <lijnnummer, woordnummer>
+(f) --> map<string, int> <woord, frequentie>
+(g) --> map<string, map<int, int>> <woord, <lijnnummer, woordnummer>>
